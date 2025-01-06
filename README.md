@@ -89,9 +89,17 @@ Hi, I'm **Aman Kumar Gupta**, a passionate **Full Stack Developer** and **Cloud 
 
 <!-- GitHub Stats -->
 
-### 🔥 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=akgbytes&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akgbytes&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=akgbytes&show_icons=true&locale=en&theme=radical&layout=compact&hide_border=true)
-
+<p align="center">
+    <a href="https://github.com/akgbytes">
+        <img align="center" height="150em" 
+             src="https://github-readme-stats.vercel.app/api?username=akgbytes&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
+    </a>
+    <a href="https://github.com/akgbytes">
+        <img align="center" height="150em" 
+             src="https://github-readme-stats.vercel.app/api/top-langs?username=akgbytes&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact" />
+    </a>
+    <a href="https://github.com/akgbytes">
+        <img align="center" height="150em" 
+             src="https://github-readme-streak-stats.herokuapp.com/?user=akgbytes&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
+    </a>
+</p>
