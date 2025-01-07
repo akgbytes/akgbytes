@@ -95,6 +95,6 @@ Hi, I'm **Aman Kumar Gupta**, a passionate **Full Stack Developer** and **Cloud 
     <img align="center" height="150em" 
          src="https://github-readme-streak-stats.herokuapp.com/?user=akgbytes&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00E1FF&fire=00E1FF&currStreakLabel=00E1FF" />
     <img align="center" height="150em" 
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=akgbytes&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact" />
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=akgbytes&show_icons=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact" />
 </p>
 
