@@ -2,7 +2,7 @@
 <!-- Social Links -->
 <div align= center>
 
-[![Twitter Badge](https://img.shields.io/badge/-@akgbytes-1ca0f1?style=social&labelColor=red&logo=x&logoColor=black&link=https://x.com/akgbytes)](https://x.com/akgbytes) &nbsp;&nbsp; 
+[![X Badge](https://img.shields.io/badge/-@akgbytes-1ca0f1?style=social&labelColor=red&logo=x&logoColor=black&link=https://x.com/akgbytes)](https://x.com/akgbytes) &nbsp;&nbsp; 
 [![Linkedin Badge](https://img.shields.io/badge/@akgbytes-0e76a8)](https://www.linkedin.com/in/akgbytes/) &nbsp;&nbsp; 
 [![Mail Badge](https://img.shields.io/badge/-akgbytes@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=pink)](mailto:akgbytes@gmail.com)
 
