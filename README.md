@@ -1,8 +1,10 @@
-<div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/akgbytes)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/akgbytes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akgbytes@gmail.com)
+<!-- Social Links -->
+<div align= center>
+
+[![Twitter Badge](https://img.shields.io/badge/-@akgbytes-1ca0f1?style=social&labelColor=red&logo=x&logoColor=black&link=https://x.com/akgbytes)](https://x.com/akgbytes) &nbsp;&nbsp; 
+[![Linkedin Badge](https://img.shields.io/badge/@akgbytes-0e76a8)](https://www.linkedin.com/in/akgbytes/) &nbsp;&nbsp; 
+[![Mail Badge](https://img.shields.io/badge/-akgbytes@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=pink)](mailto:akgbytes@gmail.com)
 
 </div>
 
@@ -17,13 +19,12 @@
 
 <!-- About Me -->
 
-### About Me
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="20" height="20">&nbsp; Hi, there!
 
-Hi, I'm **Aman Kumar Gupta**, a passionate **Full Stack Developer** from India who enjoys building clean, scalable web applications.
-
+- I'm **Aman Kumar Gupta**, a **Full Stack Developer** from India who enjoys building clean, scalable web applications.
 - Currently working on **MERN Stack** projects and exploring the world of **AWS**.
-- Learning about **Kafka**, **queue systems**, and diving deeper into **Next.js**.
-- Always open to collaborating on interesting **full-stack projects**.
+- Tinkering with **queues**, **pub/sub messaging**, and diving deeper into **Next.js**.
+- Happy to meet amazing people and grow together through collaboration and community.
 
 #
 
