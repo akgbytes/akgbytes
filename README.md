@@ -19,7 +19,7 @@
 
 <!-- About Me -->
 
-### hey there! h'm aman
+### hey there! i'm aman
 
 i love **writing clean code**, **problem-solving**, & **gen-ai stuffs**   
 
