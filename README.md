@@ -23,7 +23,7 @@
 
 i love **writing clean code**, **problem-solving**, & **gen-ai stuffs**   
 
-most of my time goes into building web apps and exploring new backend concepts, with a bunch of side projects here and there
+most of my time goes into building web apps and exploring new backend concepts, with a bunch of side projects,
 these days i’m diving deeper into backend engineering & design patterns.
 
 
