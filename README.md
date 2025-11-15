@@ -15,23 +15,19 @@
 
 <br>
 
-#
-
 <!-- About Me -->
-
-### hey there! i'm aman
-
-i love **writing clean code**, **problem-solving**, & **gen-ai stuffs**   
-
-most of my time goes into building web apps and exploring new backend concepts, with a bunch of side projects,
-these days i’m diving deeper into backend engineering & design patterns.
-
+### <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="20" height="20">&nbsp; Hi there!
+- I'm **Aman**, a **Full Stack Developer** from India with a strong focus on backend engineering.
+- Currently exploring backend systems more deeply and learning GenAI.
+- Building **Flowkit**, an automation tool that allows users to visually create workflows using blocks and connections without needing to write everything manually.
 
 <!-- GitHub Stats -->
-
 <p align="center">
     <img align="center" height="150em" 
-         src="https://github-readme-stats.vercel.app/api?username=akgbytes&hide_border=false&include_all_commits=true&count_private=true&theme=catppuccin_mocha&border_color=45475a" />
+         src="https://github-readme-stats.vercel.app/api?username=akgbytes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" />
     <img align="center" height="150em" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=akgbytes&layout=compact&theme=catppuccin_mocha&border_color=45475a&include_all_commits=true&count_private=true" />
+         src="https://nirzak-streak-stats.vercel.app/?user=akgbytes&theme=tokyonight&hide_border=false" />
+    <img align="center" height="150em" 
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=akgbytes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 </p>
+
