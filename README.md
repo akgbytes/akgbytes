@@ -15,13 +15,11 @@
 
 <br>
 
-# Aman Kumar Gupta
+<div align="center">
 
-Software Engineer focused on backend systems and systems design.
+[Portfolio](https://akgbytes.in) · [Articles](https://akgbytes.in/articles) · [Resume](https://akgbytes.in/resume)
 
-Currently picking up Go and exploring GenAI.
-
-[Portfolio](https://akgbytes.in) · [Articles](https://akgbytes.in/articles) · [Resume](https://akgbytes.in/resume) · [LinkedIn](https://www.linkedin.com/in/akgbytes/) · [X](https://x.com/akgbytes) · [Email](mailto:akgbytes@gmail.com)
+</div>
 
 <h3 align="center">WakaTime Activity</h3>
 
