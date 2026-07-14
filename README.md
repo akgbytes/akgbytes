@@ -17,7 +17,7 @@
 
 <div align="center">
 
-[Portfolio](https://akgbytes.in) · [Articles](https://akgbytes.in/blogs) · [Resume](https://akgbytes.in/resume.pdf)
+[Portfolio](https://akgbytes.in) · [Articles](https://akgbytes.in/blogs)
 
 </div>
 
